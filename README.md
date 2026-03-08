@@ -24,4 +24,4 @@ The dashboard displays:
 These visuals help quickly identify which factory and machine types require operational improvements.
 
 ## Dashboard Preview
-![Daikibo Dashboard](daikibo-dashboard.png)
+![Daikibo Dashboard](dashboard.png)
